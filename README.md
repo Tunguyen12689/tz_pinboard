@@ -11,7 +11,26 @@ Documentation can be found on the wiki project page: http://wiki.templaza.com/Ma
 Demo: http://demo.tzportfolio.com/tz-pinboard
 
 *** Changelog ***
+05/26/2014 - 3.3.1
 
+	Fix some error with SQL.
+
+05/24/2014 - 3.3
+	
+	Add new funtion : upload moving image. And add more language Spain and Russian.
+
+05/13/2014 - 3.2
+	
+	Compatible with Joomla 3.3
+	
+02/11/2013  - 3.1.4
+
+	[bug] Fix in admin with joomla 3.2.x
+
+07/31/2013  - 3.1.3
+
+	[bug] Fix with joomla 3.1.4
+	
 04/26/13  - 3.1.2
 
 	[feature] Add new module tz pinboard active
